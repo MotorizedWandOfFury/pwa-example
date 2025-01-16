@@ -1,6 +1,6 @@
 {
   "name": "My PWA Example",
-  "start_url": "/",
+  "start_url": "https://motorizedwandoffury.github.io/pwa-example/",
   "display": "fullscreen",
   "icons": [
     {
