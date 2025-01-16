@@ -1,0 +1,12 @@
+{
+  "name": "My PWA Example",
+  "start_url": "/",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
